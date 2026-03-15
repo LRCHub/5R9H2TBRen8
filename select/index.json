@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "一念之間",
+  "base_artist": "告五人",
+  "createdAt": "2026-03-15T17:52:14.523063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "告五人",
+      "has_synced": true,
+      "path": "select/01_一念之間_告五人.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "Accusefive",
+      "has_synced": true,
+      "path": "select/02_一念之間_Accusefive.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "戴佩妮",
+      "has_synced": true,
+      "path": "select/03_一念之間_戴佩妮.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "David Tao",
+      "has_synced": true,
+      "path": "select/04_一念之間_David_Tao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "Penny Tai",
+      "has_synced": true,
+      "path": "select/05_一念之間_Penny_Tai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "Tao, David",
+      "has_synced": true,
+      "path": "select/06_一念之間_Tao,_David.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "黃貫中",
+      "has_synced": false,
+      "path": "select/07_一念之間_黃貫中.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "Tao, David",
+      "has_synced": true,
+      "path": "select/08_一念之間_Tao,_David.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "告五人 (AccuseFive)",
+      "has_synced": true,
+      "path": "select/09_一念之間_告五人_(AccuseFive).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "一念之間",
+      "artist": "張清芳",
+      "has_synced": true,
+      "path": "select/10_一念之間_張清芳.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一念之間",
+      "artist": "告五人",
+      "has_synced": false,
+      "path": "select/pl_01_一念之間_告五人.txt"
+    }
+  ]
+}
